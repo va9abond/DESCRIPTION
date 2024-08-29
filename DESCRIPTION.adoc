@@ -1,0 +1,43 @@
+= DESCRIPTION
+Rustem Sirazetdinov
+:toc:
+
+
+
+== SFML
+
+* https://github.com/SFML/SFML/wiki/Tutorials[SFML wiki]
+
+
+== Output Stream Formater
+
+* https://github.com/va9abond/cpp-cdb-ostream-fmtr[cpp-cdb-ostream-fmtr]
+
+
+== CST print & println
+
+
+
+== Terminal Calendar
+
+* https://youtu.be/Ud6lzJ_IWIU?t=21[Example]
+
+
+
+== Custom Memory Management
+
+
+
+== Custom Allocators
+
+* https://habr.com/ru/companies/otus/articles/830104/[habr otus custom allocators]
+
+
+
+== RegEx Engine
+
+
+
+== 3D Editor on C
+
+* https://habr.com/ru/companies/ruvds/articles/832168/[habr ruvds 3d editor on C]
